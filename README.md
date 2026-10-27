@@ -36,7 +36,7 @@ Created a formula-based "Sick time usage" column to group employees into readabl
 *Total sick days by branch in 2020, the only year with data for all corporate branches.*
 
 ### Employees by usage category and branch (2020)
-![Employees by usage category and branch](employees_by_usage_branch.png)
+![Employees by usage category and branch](employees_by_usage_and_branch.png)
 *Number of employees in each sick-time usage category (Low, Moderate, High, Critical) by branch.*
 
 ## Key findings
